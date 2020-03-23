@@ -1,0 +1,12 @@
+composer.phar
+/vendor/
+/tmp/
+/tests/_output/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.DS_Store
